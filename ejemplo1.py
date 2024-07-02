@@ -4,3 +4,8 @@
 def mensaje():
     print(" estoy trabajando con git")
 mensaje()
+
+def sumar(n1,n2):
+    print("resultado: ", n1 + n2)
+
+sumar(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
