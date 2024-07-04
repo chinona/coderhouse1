@@ -27,6 +27,7 @@ multiplicacion(int(input("ingresa el primer numero: ")), input("ingresa el segun
 #para crear otra rama usamos git branch nombre de la rama
 # git branch consulta la cantidad de ramas que tenemos
 # para posicionarme en la nueva rama ongo git checkout nombre de la rama
+# para vovler a la rama original ponemos git checkout master, y para traer las cosas de esa nueva rama a la rama master, ponemos en la rama master git merge nombre de la rama
 
 def mensaje3():
-    print("estoy en la rama chinona")
+    print("estoy en la rama chinona ahora con github")
