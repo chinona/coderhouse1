@@ -11,7 +11,11 @@ def sumar(n1,n2):
 sumar(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
 
 
-def multiplicar(n1,n2):
+def multiplicacion(n1,n2):
     print("resultado: ", n1 * n2)
 
-multiplicar(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
+multiplicacion(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
+
+#para ver en q estado están mir archivos ecribir en la terminal git status
+#para agregarlos git add . o git add nombre del archivo
+#git commit para que pase al repositorio
