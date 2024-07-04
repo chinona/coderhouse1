@@ -9,3 +9,9 @@ def sumar(n1,n2):
     print("resultado: ", n1 + n2)
 
 sumar(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
+
+
+def multiplicar(n1,n2):
+    print("resultado: ", n1 * n2)
+
+multiplicar(int(input("ingresa el primer numero: ")), input("ingresa el segundo: "))
